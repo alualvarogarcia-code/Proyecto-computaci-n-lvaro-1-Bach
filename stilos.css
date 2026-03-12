@@ -1,7 +1,66 @@
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: blue;
+        margin: 0;
+    }
+
+    header {
+        background-color: red;
+        color: white;
+        text-align: center;
+        padding: 20px;
+    }
+
+    h2 {
+        text-align: center;
+        color: white;
+        margin-top: 20px;
+    }
+
+    main {
+        padding: 30px;
+    }
+
+    .caja {
+        background-color: white;
+        padding: 25px;
+        border-radius: 10px;
+        width: 90%;
+        margin: 20px auto; /* centra la caja */
+        box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+
+    .caja h3 {
+        color: black;
+    }
+
+    footer {
+        text-align: center;
+        background-color: #ddd;
+        padding: 10px;
+        margin-top: 30px;
+    }
 body {
-  background-image: url('fondo.jpg');
+  background-image: url('https://st2.depositphotos.com/37462746/46719/i/450/depositphotos_467199360-stock-photo-viersen-germany-march-2021-closeup.jpg');
   background-repeat: no-repeat; /* Evita que la imagen se repita */
   background-attachment: fixed; /* Mantiene la imagen fija al hacer scroll */
   background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
   background-position: center; /* Centra la imagen */
 }
+table {
+    border-collapse: collapse; /* Une las líneas de la tabla */
+    width: 60%;
+}
+ 
+th, td {
+    border: 1px solid black; /* Líneas de la tabla */
+    padding: 8px;
+    text-align: center;
+}
+ 
+th {
+    background-color: red; /* Color del encabezado */
+    color: white;
+}
+</style>
