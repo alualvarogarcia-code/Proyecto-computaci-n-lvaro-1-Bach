@@ -27,7 +27,8 @@
 </div>
  
 <!-- DIV 2 -->
-<h4>The Shining</h4><div class="seccion especial">
+<div class="seccion especial">
+<h4>The Shining</h4>
 <div class="imagen">
 <img src=https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" height="260" width="260" alt="Imagen ejemplo">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5Cb3ik6zP2I?si=EExMFLlz6TMcPUxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -36,7 +37,8 @@
 </div>
 
 <!-- DIV 3 -->
- <h4>Penny Dreadful</h4><div class="seccion especial">
+<div class="seccion especial">
+ <h4>Penny Dreadful</h4>
 <div class="imagen">
 <img src= https://m.media-amazon.com/images/M/MV5BZjkxMDAzMDgtNzFhNS00MjJkLWI5NTctZGRjODg3MzRiOWEzXkEyXkFqcGc@._V1_.jpg height="260" width="260" alt="Imagen ejemplo">
 <p>
@@ -45,7 +47,8 @@
   </div>
 
 <!-- DIV 4 -->
-<h4>Bates Motel</h4><div class="seccion especial">
+<div class="seccion especial">
+<h4>Bates Motel</h4>
 <div class="imagen">
 <img src=https://m.media-amazon.com/images/M/MV5BMzk4OTU5NTE2M15BMl5BanBnXkFtZTcwNTIxMDIyOQ@@._V1_FMjpg_UX1000_.jpg height="260" width="260" alt="Imagen ejemplo">
 <p>
@@ -54,7 +57,8 @@
 </div>
  
 <!-- DIV 5 -->
-<h4>The Exorcist</h4><div class="seccion especial">
+<div class="seccion especial">
+<h4>The Exorcist</h4>
 <div class="imagen">
 <img src= https://m.media-amazon.com/images/M/MV5BZjg3YjE4ZjAtYTdmYS00ZTBkLWE1ZjgtNzAzODUwNzRiYjlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg height="260" width="260" alt="Imagen ejemplo">
 <p>
