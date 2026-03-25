@@ -11,7 +11,7 @@
 <nav>
 <a href="index.html">Inicio</a>
 <a href="pagina 3.html">Menú</a>
-
+<a href="terror.html">Terror</a>
 </nav>
  
 <!-- DIV 1 -->
@@ -36,17 +36,12 @@
 </div>
 
 <!-- DIV 3 -->
- <h4>Penny Deadfrul</h4><div class="seccion especial">
+ <h4>Penny Dreadfrul</h4><div class="seccion especial">
 <div class="imagen">
 <img src= https://m.media-amazon.com/images/M/MV5BZjkxMDAzMDgtNzFhNS00MjJkLWI5NTctZGRjODg3MzRiOWEzXkEyXkFqcGc@._V1_.jpg heigh="260" width="260" alt="Imagen ejemplo"><p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/YFXHfEqMcis?si=1NifjMbYeijK8INA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <p>El explorador Sir Malcolm Murray, el pistolero estadounidense Ethan Chandler, el científico Victor Frankenstein y la médium Vanessa Ives se unen para combatir amenazas sobrenaturales en el Londres victoriano.
-  <h4>Bates Motel</h4><div class="seccion especial">
-<div class="imagen">
-<img src=https://m.media-amazon.com/images/M/MV5BMzk4OTU5NTE2M15BMl5BanBnXkFtZTcwNTIxMDIyOQ@@._V1_FMjpg_UX1000_.jpg heigh="260" width="260" alt="Imagen ejemplo"<p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/sjMEyNtgwvc?si=cq-InayVLPgmv2Ie" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><p>Una precuela contemporánea a Psycho ofrece un retrato de como la psique de Norman Bates se desenvuelve en sus años de adolescencia, y de cuán profundamente intrincada es su relación con su madre, Norma.
-  </p>
-</div>
+  </div>
 
 <!-- DIV 4 -->
 <h4>Bates Motel</h4><div class="seccion especial">
