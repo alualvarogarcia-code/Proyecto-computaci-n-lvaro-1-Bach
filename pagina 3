@@ -18,7 +18,7 @@
  <div class="caja">
         <h3>The Haunting of Hill House</h3><div class="seccion especial">
 <div class="imagen">
-<img src="https://m.media-amazon.com/images/M/MV5BOThhN2M3ZjctMGRiNi00NDIwLWI5NjktMGRmZTMxMzc5MDE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"heigh="260" width="260" alt="Imagen ejemplo"> 
+<img src="https://m.media-amazon.com/images/M/MV5BOThhN2M3ZjctMGRiNi00NDIwLWI5NjktMGRmZTMxMzc5MDE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"height="260" width="260" alt="Imagen ejemplo"> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3eqxXqJDmcY?si=9mLBvWKkJ6oaINgQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
         <p>
@@ -29,7 +29,7 @@
 <!-- DIV 2 -->
 <h4>The Shining</h4><div class="seccion especial">
 <div class="imagen">
-<img src=https://m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg heigh="260" width="260" alt="Imagen ejemplo">
+<img src=https://"m.media-amazon.com/images/M/MV5BNmM5ZThhY2ItOGRjOS00NzZiLWEwYTItNDgyMjFkOTgxMmRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" heigh="260" width="260" alt="Imagen ejemplo">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5Cb3ik6zP2I?si=EExMFLlz6TMcPUxF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  <p> Una familia se dirige a un hotel aislado para pasar el invierno. Allí, una presencia espiritual maligna violenta al padre, mientras el hijo, psíquico, tiene horripilantes visiones del pasado y del futuro.
   </p>
